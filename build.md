@@ -1,11 +1,12 @@
-YouTube: 19.16.39  
-Music (arm-v7a): 7.03.52  
 Music (arm64-v8a): 7.03.52  
+Music (arm-v7a): 7.03.52  
 Music-Extended (arm64-v8a): 7.17.51  
+Music-Extended (arm-v7a): 7.17.51  
+YouTube: 19.16.39  
 YouTube-Extended: 19.16.39  
 Twitch: 16.9.1  
-Music-Extended (arm-v7a): 7.17.51  
-GooglePhotos (arm64-v8a): 6.98.0.670003362  
+GooglePhotos (arm64-v8a): 6.99.0.672345802  
+GooglePhotos (arm-v7a): 6.99.0.672345802  
 Reddit-Extended: 2024.17.0  
 TikTok: 32.5.3  
 
