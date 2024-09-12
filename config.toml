@@ -74,4 +74,4 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-s
 [GooglePhotos]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 arch = "both"
-build-mode = "module"
+#build-mode = "module"
